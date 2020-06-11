@@ -1,24 +1,12 @@
 # README
+* Ruby version:2.6.6  
+# Rspecを使ったテストコードの実装　
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### ・Userテーブルを作成。
 
-Things you may want to cover:
+### ・日本語表記に対応。
 
-* Ruby version
+### (作動方法)  
+コマンドで作動させるディレクトリに移動した後、```bundle exec rspec```　　
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
